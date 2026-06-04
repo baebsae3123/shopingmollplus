@@ -12,8 +12,8 @@ https://github.com/baebsae3123/dy-2026-01-web-server-programming-main
 
 <img width="1898" height="909" alt="image" src="https://github.com/user-attachments/assets/e7bb8a1d-3131-4332-8b12-39e3ca9ea843" />
 
-#🔥 인기상품 TOP10
-❤️ 찜 목록 TOP10
+## 🔥 인기상품 TOP10
+## ❤️ 찜 목록 TOP10
 
 
 <img width="1695" height="831" alt="image" src="https://github.com/user-attachments/assets/6ab5ecb7-212b-4ccf-af1c-e0b76792b308" />
