@@ -2,20 +2,6 @@
 
 # 유저기능
 
-## 상품 리뷰 기능
-
-해당 상품에 별점 0/5칸 별을 남겨두고 거기안에 
-짧은 텍스트로 사용자가 신뢰하며 구매할수있도록 만들어주기
-
-<img width="1500" height="932" alt="image" src="https://github.com/user-attachments/assets/72b3c84e-c575-4129-b1d9-98a36f040338" />
-
-## 찜 목록 랭킹 
-
-현재 많은 관심을 받고 있는 상품을 쉽게 확인할 수 있다.
-구매를 망설이는 고객에게 사회적 증거(Social Proof)를 제공한다.
-인기 상품 노출을 통해 추가 구매를 유도할 수 있다.
-
-<img width="715" height="467" alt="image" src="https://github.com/user-attachments/assets/135e653c-7af6-4ff1-8684-7d54cf11316e" />
 
 ## 다크모드 
 
