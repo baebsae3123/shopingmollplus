@@ -17,3 +17,6 @@ https://github.com/baebsae3123/dy-2026-01-web-server-programming-main
 
 
 <img width="1695" height="831" alt="image" src="https://github.com/user-attachments/assets/6ab5ecb7-212b-4ccf-af1c-e0b76792b308" />
+
+현재 인기 상품과 찜 한 순위를 매겨서 더 필요한 물건을 가져올수 있도록 만들어보았습니다
+인기 많은 재고는 더 많이 주문 해야하니까
