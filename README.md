@@ -1,8 +1,7 @@
-# 20251280_황인성
 
-# shopingmollplus 쇼핑물추가기획서
+# shopingmollplus 쇼핑물추가기획서 20251280_황인성
 
-# 기능 구현된 파일 깃허브 주소
+## 기능 구현된 파일 깃허브 주소
 
 https://github.com/baebsae3123/dy-2026-01-web-server-programming-main
 
